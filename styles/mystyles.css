@@ -1,0 +1,16 @@
+body{
+    background-image: url(../images/videoblocks-a-cracked-dry-soil-landscape-desolate-and-barren-as-far-as-the-eye-can-see-where-no-human-life-could-exist-or-crops-could-ever-grow_s85w02_08_thumbnail-1080_01.png) ;
+    
+}
+.site-heading .site-heading-lower {
+    color: rgba(47, 23, 15, 0.5);
+  }
+
+  .footer{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: fantasy;
+    background-color: rgb(38, 78, 138);
+    opacity: .90;
+  }  
+ 
